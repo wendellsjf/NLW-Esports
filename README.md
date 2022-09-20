@@ -41,5 +41,5 @@ The objective of the project is to develop the profile page of a gamehub
 
 ## 📩 Contact
 
-+55 32 98446-7847 *(WhatsApp)*
++55 32 98446-7847 *(WhatsApp)* <br>
 wendelsilva.lopes10@gmail.com
